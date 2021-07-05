@@ -2,6 +2,5 @@
 
 this repo contains some challenges of frontend mentor
  
- #preview card demo
- demo:
+ #preview card demo-link:
  
